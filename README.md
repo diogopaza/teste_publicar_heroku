@@ -7,6 +7,6 @@
 $ heroku create<br>
 $ git push heroku master<br>
 $ heroku open</strong></p><br>
-<p>No meu pc ao executar o comando heroku open ele não abriu a aplicação no navegador </p>
+<p>No meu pc ao executar o comando <i>heroku open</i> ele não abriu a aplicação no navegador </p>
 <p>Para resolver isso você pode copiar o link que aparece ao final do comando <i>git push heroku master</i></p>
 <p>Lá embaixo ao lado de deployed to Heroku ou na sua conta na própria página do Heroku selecionando seu projeto e clicando em Open app no lado direito da sua tela.<br></p>
